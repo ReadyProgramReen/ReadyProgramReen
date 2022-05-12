@@ -17,9 +17,8 @@ const Maureen = {
   tools: [React, Redux, Node, Storybook, OOP],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
-                        coorganizer: "BlacKWomenInTech",
-                        speaker: "African-American",
-                        mentor: ""
+                        coorganizer: "WestAfricanWomenInTech",
+                       
                       },
  challenge: "I am doing a #100hour project focused on highlighting my skills"
 }

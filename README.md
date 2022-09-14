@@ -1,7 +1,7 @@
 
 <h2> Hi, I'm Maureen Ekeugo! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Software Enginner at 100DEVS AGENCY<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
+<p><em>Software Engineer at 100DEVS AGENCY<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 </em></p>
 
 
@@ -20,7 +20,7 @@ const Maureen = {
                         coorganizer: "WestAfricanWomenInTech",
                        
                       },
- challenge: "I am doing a #100hour project focused on highlighting my skills"
+ challenge: "I am currently working on a #100hour project focused on highlighting my skills"
 }
 ```
 

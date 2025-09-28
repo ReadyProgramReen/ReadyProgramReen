@@ -13,7 +13,7 @@
 
 🌍 Based in **New York, open to relocation**  
 💼 Software Engineer @ **100DEVS Agency**  
-📚 Currently working on a **#Neetcodes** to showcase my skills  
+📚 Currently working on **#Neetcodes** to strengthen my technical interviewing muscle 
 🤝 Actively contributing to **West African Women In Tech**  
 
 ---

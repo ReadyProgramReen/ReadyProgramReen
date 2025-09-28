@@ -1,32 +1,42 @@
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Maureen Ekeugo</h1>
+<h3 align="center">Full-Stack Software Engineer | Lifelong Learner | Community Builder</h3>
 
-<h2> Hi, I'm Maureen Ekeugo! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Software Engineer at 100DEVS AGENCY<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
-</em></p>
-
-
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-MaureenEkeugo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maureen-ekeugo-25139321b/)](https://www.linkedin.com/in/Maureenekeugo/)
-
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-```javascript
-const Maureen = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, Redux, Node, Storybook, OOP],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "WestAfricanWomenInTech",
-                       
-                      },
- challenge: "I am currently working on a #100hour project focused on highlighting my skills"
-}
-```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<p align="center">
+  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="100"/>
+</p>
 
 ---
 
-⭐️ From [@MaureenEkeugo](https://github.com/ReadyProgramReen/ReadyProgramReen)
+<!-- Quick Intro -->
+<img align="right" src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
+🌍 Based in **New York, open to relocation**  
+💼 Software Engineer @ **100DEVS Agency**  
+📚 Currently working on a **#Neetcodes** to showcase my skills  
+🤝 Actively contributing to **West African Women In Tech**  
+
+---
+
+<!-- Badges -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/Maureenekeugo/">
+    <img src="https://img.shields.io/badge/-MaureenEkeugo-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/ReadyProgramReen">
+    <img src="https://img.shields.io/badge/GitHub-ReadyProgramReen-black?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+### 💻 Tech Stack
+```javascript
+const Maureen = {
+  pronouns: "she" | "her",
+  languages: ["JavaScript", "TypeScript", "HTML", "CSS"],
+  frameworks: ["React", "Redux", "Node.js", "Express"],
+  tools: ["Prisma", "Storybook", "Git", "REST APIs"],
+  architecture: ["Microservices", "Event-Driven", "Design Systems"],
+  challenge: "Building real-world projects to strengthen full-stack mastery"
+}

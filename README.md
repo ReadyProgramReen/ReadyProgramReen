@@ -44,3 +44,22 @@ const Maureen = {
   architecture: ["Microservices", "Event-Driven", "Design Systems"],
   challenge: "Building real-world projects to strengthen full-stack mastery"
 }
+
+---
+
+## 🚀 Current Project
+
+### 🐞 AI-Powered Bug Triager  
+A developer tool that analyzes stack traces and suggests likely causes and fixes.  
+- Paste in a stack trace and get **AI-generated explanations** + **solutions** without leaving VSCode  
+- Built with **React, Node.js, Express, and AI integration**  
+- Features history view, responsive design, and real-time error insights  
+
+---
+
+## 🌟 Fun Facts
+
+- 🎾 I enjoy playing **tennis** on weekends  
+- 🧶 I relax with **knitting** while watching shows  
+- 🎬 Big movie buff (ask me about my favorite directors!)  
+- 🌍 Love connecting with new people — always happy to chat 👋  

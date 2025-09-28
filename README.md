@@ -20,12 +20,16 @@
 
 <!-- Badges -->
 <p align="center">
+  <a href="https://maureenekeugo.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-maureenekeugo.netlify.app-green?style=for-the-badge&logo=netlify&logoColor=white"/>
+  </a>
   <a href="https://www.linkedin.com/in/Maureenekeugo/">
     <img src="https://img.shields.io/badge/-MaureenEkeugo-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/ReadyProgramReen">
     <img src="https://img.shields.io/badge/GitHub-ReadyProgramReen-black?style=for-the-badge&logo=github"/>
   </a>
+
 </p>
 
 ---
